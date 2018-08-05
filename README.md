@@ -1,11 +1,14 @@
 # SAMPLE PICKER
 
-Pick a random music file from you samples folder for instant inspiration. Programmed with Automator, bash and AppleScript for macOS.
-This app is a tool for producers that use samples from a huge library, in my case hip hop music.
+Simple app that picks and plays a random music file from you samples folder for instant inspiration and fast tagging. 
+
+This app is a quick tool for producers that use samples from a huge library, in my case hip hop music.
+
+Programmed with Automator, bash and AppleScript for macOS.
 
 <br>
 <p align="center">
-<img src="https://media.giphy.com/media/mxRYmOnK5L41sb1EbY/giphy.gif" />
+<img src="https://media.giphy.com/media/WgO45rsC9HBf6YXHWY/giphy.gif" />
 </p>
 <br>
 
@@ -22,6 +25,7 @@ This app is a tool for producers that use samples from a huge library, in my cas
 ## How I use it
 
 I have thousands of samples from different sources, like Blogspots, YouTube, etc. in some different formats, so I have a huge amount of music for creating hip hop beats. 
+
 One of the worst feelings as a beatmaker is having no inspiration, and for improving my workflow I created this applet for quickly do an action that I made manually for years, finding the right sample and categorizing it with tags.
 
 My current workflow is like that:
