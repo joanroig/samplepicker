@@ -1,6 +1,6 @@
 # SAMPLE PICKER
 
-Simple macOS app that picks and plays a random music file from you samples folder for instant inspiration and fast tagging. 
+Simple macOS app that picks and plays a random music file from you samples folder for instant crate digging and fast tagging. 
 
 This app is a quick tool for producers that use samples from a huge library, in my case hip hop music.
 
